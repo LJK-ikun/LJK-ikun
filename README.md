@@ -1,11 +1,5 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="LJK-ikun · Mint Terminal">
-</picture>
-
+  <img src="assets/hero-anime.png" width="100%" alt="二次元主页横幅">
 </div>
 
 ### 👋 关于我
