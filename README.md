@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-anime.png" width="100%" alt="二次元主页横幅">
+  <img src="hero-anime.png" width="100%" alt="二次元主页横幅">
 </div>
 
 ### 👋 关于我
