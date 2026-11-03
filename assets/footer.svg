@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Keep learning, keep building">
+  <rect x="2" y="2" width="1196" height="126" rx="14" fill="#EDF5F0" stroke="#AEC8BC" stroke-width="2"/>
+  <text x="600" y="58" text-anchor="middle" fill="#183F34" font-family="Consolas,monospace" font-size="24">$ echo "keep learning, keep building"</text>
+  <text x="600" y="94" text-anchor="middle" fill="#206B51" font-family="Consolas,monospace" font-size="15">see you in the next commit_</text>
+</svg>
