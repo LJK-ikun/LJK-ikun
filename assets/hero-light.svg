@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="LJK-ikun Mint Terminal">
+  <rect width="1200" height="440" rx="18" fill="#EDF5F0"/>
+  <path d="M0 54H1200M760 54V440" stroke="#AEC8BC" stroke-width="2"/>
+  <circle cx="30" cy="27" r="7" fill="#DE7C78"/><circle cx="56" cy="27" r="7" fill="#DEBF78"/><circle cx="82" cy="27" r="7" fill="#75BB97"/>
+  <text x="112" y="33" fill="#183F34" font-family="Consolas,monospace" font-size="16">ljk@cqupt: ~/projects</text>
+  <text x="46" y="116" fill="#206B51" font-family="Consolas,monospace" font-size="22">$ whoami</text>
+  <text x="44" y="190" fill="#183F34" font-family="Consolas,monospace" font-size="58" font-weight="700">LJK-ikun</text>
+  <text x="48" y="235" fill="#206B51" font-family="Consolas,monospace" font-size="22">&gt; 欢迎来到我的 GitHub</text>
+  <text x="48" y="305" fill="#183F34" font-family="Consolas,monospace" font-size="18">[ ok ] 重庆邮电大学</text>
+  <text x="48" y="346" fill="#183F34" font-family="Consolas,monospace" font-size="18">[ ok ] Vue · JavaScript · Node.js</text>
+  <text x="48" y="387" fill="#183F34" font-family="Consolas,monospace" font-size="18">[ .. ] keep learning, keep building</text>
+  <rect x="48" y="405" width="13" height="20" fill="#206B51"/>
+  <rect x="790" y="82" width="368" height="310" rx="12" fill="#DCEBE3"/>
+  <rect x="814" y="107" width="320" height="260" rx="8" fill="#183F34"/>
+  <text x="838" y="146" fill="#74DCAD" font-family="Consolas,monospace" font-size="16">~/featured-projects</text>
+  <text x="838" y="192" fill="#D6F6E8" font-family="Consolas,monospace" font-size="15">01  web-crawler-http</text>
+  <text x="838" y="232" fill="#D6F6E8" font-family="Consolas,monospace" font-size="15">02  -csdn-vue-</text>
+  <text x="838" y="272" fill="#D6F6E8" font-family="Consolas,monospace" font-size="15">03  jk-element</text>
+  <text x="838" y="312" fill="#D6F6E8" font-family="Consolas,monospace" font-size="15">04  handwritten problems</text>
+  <path d="M838 337H1090" stroke="#74DCAD" stroke-width="2"/>
+</svg>
